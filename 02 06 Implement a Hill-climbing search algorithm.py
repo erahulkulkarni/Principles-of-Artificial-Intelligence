@@ -331,7 +331,7 @@ def yet_another_objective_function(x):
                          y 
                          |
                  |      3|       |  
-                  |     2|     *|       * ← (arbitrary initial x = 2.788536)
+                  |     2|      |
         _ _ _ _ _ _|_ _ 1._ _ _|_ _ _ _ _ _ x
              -4 -3  | -1 | 1  | 3 4
                     |  -1|    |   
